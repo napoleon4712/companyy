@@ -7,7 +7,7 @@ public class Main {
 	s.setColor("Black");
 	s.setCost(3000);
 	s.setRAM("4GB");
-	s.setAndriod_version("Android Pie");
+	s.setAndriod_version("Android PPie");
         System.out.println("Samsung mobile details" );
         System.out.println("cost: "+s.getCost());
         System.out.println("Color: "+s.getColor());
